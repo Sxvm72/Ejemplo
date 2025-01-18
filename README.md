@@ -1,2 +1,3 @@
 # Ejemplo
-Chill
+echo.Hola mundo!
+echo.Que onda a todos ;)
